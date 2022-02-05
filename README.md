@@ -9,7 +9,7 @@
 ### Tech stack
 
 - Expo
-- Firebae/Firestore
+- Firebase/Firestore
 
 ## Notes
 
